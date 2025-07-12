@@ -25,7 +25,7 @@ I'm a passionate software developer with a background in digital marketing, busi
 - ✅ **[Certificate Verification System](https://github.com/yourusername/cert-verify)**  
   A secure platform for validating certificates in real time.
 
-- ✅ **[My Portfolio Website](https://yourusername.github.io/portfolio)**  
+- ✅ **[My Portfolio Website](https://fathiu2003.github.io/portfolio/))**  
   Simple, clean, and effective web presence built from scratch.
 
 ---
