@@ -2,7 +2,7 @@
 <p align="center">
   <i>Web Developer | Digital Marketer | Software Enthusiast</i><br>
   <a href="mailto:bigfatsolutionhub@gmail.com">📧 Contact Me</a> • 
-  <a href="https://your-website.com" target="_blank">🌐 Portfolio</a>
+  <a href="(https://fathiu2003.github.io/portfolio/)" target="_blank">🌐 Portfolio</a>
 </p>
 
 ---
@@ -25,7 +25,7 @@ I'm a passionate software developer with a background in digital marketing, busi
 - ✅ **[Certificate Verification System](https://github.com/yourusername/cert-verify)**  
   A secure platform for validating certificates in real time.
 
-- ✅ **[My Portfolio Website](https://fathiu2003.github.io/portfolio/))**  
+- ✅ **[My Portfolio Website](https://fathiu2003.github.io/portfolio/)**  
   Simple, clean, and effective web presence built from scratch.
 
 ---
