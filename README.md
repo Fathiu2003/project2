@@ -2,7 +2,7 @@
 <p align="center">
   <i>Web Developer | Digital Marketer | Software Enthusiast</i><br>
   <a href="mailto:bigfatsolutionhub@gmail.com">📧 Contact Me</a> • 
-  <a href="(https://fathiu2003.github.io/portfolio/)" target="_blank">🌐 Portfolio</a>
+  <a href="https://fathiu2003.github.io/portfolio" target="_blank">🌐 Portfolio</a>
 </p>
 
 ---
